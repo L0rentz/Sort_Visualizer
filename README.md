@@ -12,6 +12,6 @@ If you want to try it don't forget to turn the sound up.
 
 # Example
 
-![ScreenShot](https://raw.github.com/L0rentz/Sokoban/master/examples/example.png)
-![ScreenShot](https://raw.github.com/L0rentz/Sokoban/master/examples/example.png)
-![ScreenShot](https://raw.github.com/L0rentz/Sokoban/master/examples/example.png)
+![ScreenShot](https://raw.github.com/L0rentz/Sort_Visualizer/master/examples/example1.png)
+![ScreenShot](https://raw.github.com/L0rentz/Sort_Visualizer/master/examples/example3.png)
+![ScreenShot](https://raw.github.com/L0rentz/Sort_Visualizer/master/examples/example2.png)
